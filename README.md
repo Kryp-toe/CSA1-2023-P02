@@ -1,6 +1,6 @@
 # CSA1-2023-P02
 
-Ref to the " CSC01A1-2023-P1.pdf " file uploaded for program discription.
+Ref to the " CSC01A1-2023-P2.pdf " file uploaded for program discription.
 
 Ref to the " main.cpp " file uploaded for program.
 
